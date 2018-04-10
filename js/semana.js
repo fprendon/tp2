@@ -17,5 +17,4 @@ for (var i = 0; i < finde.length; i++) {
     console.log("El dia es fin de semana");
     break;
   }
-
 }
