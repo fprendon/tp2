@@ -1,5 +1,4 @@
 
-
 var dia = prompt ("Ingrese un dia de la semana");
 var dia = dia.toUpperCase();
 var habil = ["LUNES", "MARTES", "MIERCOLES", "JUEVES", "VIERNES"];
